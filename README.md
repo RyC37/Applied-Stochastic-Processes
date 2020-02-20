@@ -1,5 +1,5 @@
 # Applied-Stochastic-Processes
-This repo contains homework of MATH541 (19Fall)
+This repo contains my homework of MATH541 (19Fall)
 
 **Textbook** *Essentials of Stochastic Processes, 3rd edition (2012), by Richard Durrett*
 
