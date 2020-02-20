@@ -4,6 +4,7 @@ This repo contains homework of MATH541 (19Fall)
 **Textbook** Essentials of Stochastic Processes, 3rd edition (2012), by Richard Durrett
 
 **Table of Contents**
+
 0. **541-HW-Problems** gives all the problem in this class.
 1. **HW1** covers Definition of Discrete Markov Chain, Review of Probabilities 
 2. **HW2** covers Classification of States, Stationary Distributions
